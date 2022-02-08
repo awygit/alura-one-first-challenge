@@ -9,7 +9,8 @@ Desafio do Curso Oracle Next Education (ONE) + Alura.
 (https://awygit.github.io/alura-one-first-challenge/)<br />
 
 
-  
+  ![secret_code](https://user-images.githubusercontent.com/77582624/153050618-cc386748-a26f-4586-b067-4ea11a95e57f.PNG)
+
 </div>
 
 ##### Tecnologias utilizadas #####
