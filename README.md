@@ -29,3 +29,9 @@ Desafio do Curso Oracle Next Education (ONE) + Alura.
 3) Clique no botão "copiar" para copiar a mensagem criptografada
 4) Cole a mensagem criptografada no "input" 
 5) Clique no botão [descriptografar]
+
+####  Bônus  #####
+
+Mensagem secreta para da Alura para Descriptografar: 
+
+pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober
