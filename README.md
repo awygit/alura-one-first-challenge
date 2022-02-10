@@ -32,6 +32,6 @@ Desafio do Curso Oracle Next Education (ONE) + Alura.
 
 ####  Bônus  #####
 
-Mensagem secreta para da Alura para Descriptografar: 
+Mensagem secreta da Alura para Descriptografar: 
 
 pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober
